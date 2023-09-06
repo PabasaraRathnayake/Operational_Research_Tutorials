@@ -12,5 +12,5 @@ of labor to produce and generates a unit profit of $32. Each Mini requires 40 mi
 generates a unit profit of $24. Back Savers has 35 laborers that each provides 40 hours of labor
 per week. Management wishes to know what quantity of each type of backpack to produce per
 week.
-1 Formulate and solve a linear programming model using a computer based procedure
+Formulate and solve a linear programming model using a computer based procedure
 
